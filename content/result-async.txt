@@ -1,0 +1,2 @@
+Os dois no modo async: Esse é o primeiro arquivo .txt
+ E esse é o segundo arquivo .txt
